@@ -23,7 +23,7 @@ The code employs rule-based techniques using regular expressions (regex) and nat
 
 ## Part 2: Word Embedding
 
-This part explores various word embedding techniques, including one-hot encoding, bag of words, TF-IDF, Word2Vec (Skip Gram, CBOW), GloVe, and FastText. The provided Jupyter notebook applies these techniques to data of Hadiths scrapped from various pages of the website https://mawdoo3.com/ The raw data was stored in a MongoDB database, and Natural Language Processing (NLP) techniques were applied to the scraped text. For this notebook, the cleaned and tokenized data is utilized, available in the repository.
+This part explores various word embedding techniques, including one-hot encoding, bag of words, TF-IDF, Word2Vec (Skip Gram, CBOW), GloVe, and FastText. The provided Jupyter notebook applies these techniques to data of Hadiths scrapped from various pages of the website https://mawdoo3.com/ The raw data was stored in a MongoDB database, and Natural Language Processing (NLP) techniques were applied to the scraped text here is the link of the repository of the project https://github.com/elmezianech/Hadiths-Scrapper-NLP-Pipeline. For this notebook, the cleaned and tokenized data is utilized, available in the repository.
 
 Additionally, it utilizes the Tsne Algorithm to visualize and evaluate the encoded/vectorized vectors, concluding with insights into the effectiveness of each approach.
 
